@@ -21,7 +21,7 @@ The AMS-III.C methodology offers a comprehensive approach to reducing emissions 
 
 The AMS-III.C methodology serves as a vital tool in addressing environmental challenges by facilitating the adoption of electric and hybrid vehicles in passenger and freight transportation. Its structured approach offers clear guidelines for project implementation, ensuring transparency and accountability in emission reduction efforts. By promoting the displacement of fossil fuel vehicles with cleaner alternatives, AMS-III.C contributes to reducing greenhouse gas emissions and advancing sustainability goals. Additionally, its provisions for battery performance specifications and measures to prevent double counting of emission reductions enhance project integrity. AMS-III.C encourages compliance with regulations and supports the use of renewable energy sources for vehicle charging, further promoting environmental stewardship. With a focus on comparability between project and baseline vehicles and a defined limit on emission reductions, AMS-III.C provides a reliable framework for achieving substantial emission reductions while fostering sustainable transportation practices.
 
-### Demo video
+### Demo video - https://vimeo.com/932207501?share=copy
 
 ### Policy workflow
 
